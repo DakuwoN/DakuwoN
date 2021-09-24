@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DakuwoN
-- 👀 I’m interested in ... Software Engineering (Full Stack) @ HackReactor
-- 🌱 I’m currently learning ... Hack Reactor Prep Course
-- 💞️ I’m looking to collaborate on ... mastering JavaScript
+- 👀 I’m interested in ... Software Engineering (Full Stack) @ Springboard
+- 🌱 I’m currently learning ... Springboard Prep Course
+- 💞️ I’m looking to collaborate on ... Software Engineering
 - 📫 How to reach me ... matthewleemccane@gmail.com
 
 <!---
