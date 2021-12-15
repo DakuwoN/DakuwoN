@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DakuwoN
-- 👀 I’m interested in ... Software Engineering (Full Stack) @ Springboard
-- 🌱 I’m currently learning ... Springboard Prep Course
+- 👀 I’m interested in ... Software Engineering (Full Stack) 
+- 🌱 I’m currently learning ... The Odin Project
 - 💞️ I’m looking to collaborate on ... Software Engineering
 - 📫 How to reach me ... matthewleemccane@gmail.com
 
