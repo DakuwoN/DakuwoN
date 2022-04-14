@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DakuwoN
+- 👋 Hi, I’m @DakuwoN (Matthew McCane)
 - 👀 I’m interested in ... Software Engineering (Front-End Engineer) 
 - 🌱 I’m currently learning ... Intro to Programming (Udacity)
 - 💞️ I’m looking to collaborate on ... Software Engineering
