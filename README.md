@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DakuwoN (Matthew McCane)
-- 👀 I’m interested in ... Software Engineering (Front-End Engineer) 
-- 🌱 I’m currently learning ... Front End Web Development (Udacity)
+- 👀 I’m interested in ... Software Engineering 
+- 🌱 I’m currently learning ... Front End Web Development (Udacity) and Data Structures and Algorithms (Educative.io) 
 - 💞️ I’m looking to collaborate on ... Software Engineering
 - 📫 How to reach me ... matthewleemccane@gmail.com
 
