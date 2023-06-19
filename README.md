@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DakuwoN (Matthew McCane)
-- 👀 I’m interested in ... Technology
-- 🌱 I’m currently learning ... as a Full Stack Fellow @ https://formation.dev 
-- 💞️ I’m looking to collaborate on ... Gaming, Sports, Education, Fitness.
+- 👋 Hi, I’m Matthew McCane
+- 👀 I’m interested in ... Computer Science
+- 🌱 I’m currently learning ... Full Stack Engineering
+- 💞️ I’m looking to collaborate on ... Data Structures and Algorithms
 - 📫 How to reach me ... matthewleemccane@gmail.com
 
 <!---
