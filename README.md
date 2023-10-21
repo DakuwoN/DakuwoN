@@ -4,7 +4,8 @@
 - 🌱 I am a Full Stack Engineering Fellow @ [Formation](https://formation.dev)
 - 💞️ I’m currently looking for an Apprentice/Intern role in Software Engineering!
 - 📫 I blog about my Daily Reflections on [Medium](https://medium.com/@DakuwoN) and [Personal blog](https://matthewmccane.blogspot.com)
-  
+  [![An image of @dakuwon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dakuwon)](https://holopin.io/@dakuwon)
+
 
 
 <!---
