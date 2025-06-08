@@ -1,11 +1,21 @@
+# 👋 Hi, I'm Matthew
+I am transitioning from a career in the culinary arts industry into the tech industry. My goal is to work at Apple for the long term and to grow within the company as a Machine Learning Engineer. I enjoy solving problems, puzzles, and Math, but mostly I enjoy helping others who are seeking help! 
 
-- 👋 Hello, I am Matthew McCane, Welcome to my GitHub!
-- 👀 I’m interested in Computer Science, Math, and Philosophy.
-- 🌱 I am a Full Stack Engineering Fellow @ [Formation](https://formation.dev)
-- 💞️ I’m currently looking for an Apprentice/Entry Level role in Software Engineering!
-- 📫 I blog about my Daily Reflections on [Medium (Technical Blog)](https://medium.com/@DakuwoN)  and [Personal blog](https://matthewmccane.blogspot.com)
-- Check out my portfolio [Matthew McCane](https://dakuwon.github.io) 
+## 🔭 Current Goals
+- Learn Swift and iOS development
+- Build ML projects with CoreML and Python
+- Complete my CS degree and intern at Apple
 
+## 🌱 Currently Learning
+- Math 
+- Data Structures and Algorithms, Interview Preparation, and Computer Science Fundamentals with Formation.
+- Apple Ecosystem
+- Computer Science @ Arizona State University (starting soon)
+
+## 📫 Let's connect
+- Twitter: [@itsMattMcCane](https://x.com/itsmattmccane)
+- LinkedIn: [linkedin.com/in/matthewmccane](https://linkedin.com/in/matthewmccane)
+- Profile: [https://dakuwon.github.io](https://dakuwon.github.io)
 
 
 
