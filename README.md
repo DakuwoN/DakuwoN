@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Matthew
-I am transitioning from a career in the culinary arts industry into the tech industry. My goal is to work at Apple for the long term and to grow within the company as a Machine Learning Engineer. I enjoy solving problems, puzzles, and Math, but mostly I enjoy helping others who are seeking help! 
+I am transitioning from a career in the culinary arts industry into the tech industry. My goal is to work at Apple for the long term and to grow within the company. I enjoy solving problems, puzzles, and Math, but mostly I enjoy helping others who are seeking help! 
 
 ## 🔭 Current Goals
 - Learn Swift and iOS development
