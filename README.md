@@ -3,7 +3,7 @@ I am transitioning from a career in the culinary arts industry into the tech ind
 
 ## 🔭 Current Goals
 - Learn Swift and iOS development
-- Build ML projects with CoreML and Python
+- Build iOS apps
 - Complete my CS degree and intern at Apple
 
 ## 🌱 Currently Learning
