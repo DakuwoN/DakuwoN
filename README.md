@@ -4,7 +4,7 @@ I am transitioning from a career in the culinary arts industry into the tech ind
 ## 🔭 Current Goals
 - Learn Swift and iOS development
 - Build iOS apps
-- Complete my CS degree and intern at Apple
+- Complete my CS degree and find internships while in school.
 
 ## 🌱 Currently Learning
 - Math 
