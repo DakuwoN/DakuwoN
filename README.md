@@ -7,7 +7,7 @@ I am transitioning from a career in the culinary arts industry into the tech ind
 - Complete my CS degree and find internships while in school.
 
 ## 🌱 Currently Learning
-- Math 
+- Math, Swift, Xcode 
 - Data Structures and Algorithms, Interview Preparation, and Computer Science Fundamentals with Formation.
 - Apple Ecosystem
 - Computer Science @ Arizona State University (starting soon)
