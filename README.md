@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Matthew
-I am transitioning from a career in the culinary arts industry into the tech industry. My goal is to work at Apple for the long term and to grow within the company. I enjoy solving problems, puzzles, and Math, but mostly I enjoy helping others who are seeking help! 
+I am transitioning from a career in the culinary arts industry into the tech industry. I am currently working on completing my Computer Science degree at ASU and looking for internships or freshman year roles to gain experience early on and hopefully grow in a company for the long term!  
 
 ## 🔭 Current Goals
 - Learn Swift and iOS development
