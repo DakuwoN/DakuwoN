@@ -1,14 +1,17 @@
 # 👋 Hi, I'm Matthew
-I am transitioning from a career in the culinary arts industry into the tech industry. I am currently working on completing my Computer Science degree at ASU and looking for internships or freshman year roles to gain experience early on and hopefully grow in a company for the long term!  
+I am currently a freshman at Arizona State University. I am looking for internships at Microsoft or Amazon. I am also a fellow at Formation, a community of top tier
+software engineers who assist fellows in interview preparation, behavioral skills, data structures and algorithms, problem solving, and being an overall strong engineer.
 
 ## 🔭 Current Goals
-- Complete my CS degree and find internships while in school.
-- Practice Data Structures and Algorithms with Formation
+- Practice Data Structures and Algorithms!
+- Complete projects!
+- Find a strong open source project!
 
 ## 📫 Let's connect
 - Twitter: [@itsMattMcCane](https://x.com/itsmattmccane)
 - LinkedIn: [linkedin.com/in/matthewmccane](https://linkedin.com/in/matthewmccane)
 - Profile: [https://dakuwon.github.io](https://dakuwon.github.io)
+- Formation [https://formation.dev](https://formation.dev)
 
 
 
